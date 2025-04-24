@@ -34,7 +34,7 @@
         <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain.svg" title="Angular" alt="Angular" width="40" height="40"/>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" width="40" height="40" alt="docker logo"  />
 
-      </div>
+
 </div>
 
 ---
