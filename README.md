@@ -5,7 +5,7 @@
 </div>
 ---
 
-### 👨‍💻 About Me :
+### 👨‍💻 Sobre mí :
 
 - 📝 Trabajo como desarrollador web full stack.
 
